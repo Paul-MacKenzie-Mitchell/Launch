@@ -1,0 +1,13 @@
+welcome:  'Welcome to Calculator. Please enter your name:'
+
+valid_name:  'Make sure to enter a valid name.'
+
+first_num:  "What's the first number"
+
+second_num:  "What's the second number"
+
+valid_num:  'Enter valid number'
+
+must_choose:  'Must choose 1, 2, 3 or 4.'
+
+zero_error:  'Cannot divide by 0, please enter a valid denominator'

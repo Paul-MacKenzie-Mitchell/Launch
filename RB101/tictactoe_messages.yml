@@ -1,0 +1,8 @@
+rules: |
+  - The game is played on a grid that's 3 squares by 3 squares.
+  - Choose either X or O as your piece."\
+  - Your friend (or the computer in this case) is the other piece.
+  - Players take turns putting their marks in empty squares.
+  - The first player to get 3 of her marks in a row (up, down, across, or diagonally) is the winner.
+  - When all 9 squares are full, the game is over.
+goes_first:  "Select (1) to go first, (2) for the computer to go first or (3) to randomly select who will go first."
